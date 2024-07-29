@@ -1,3 +1,15 @@
+.ipynb_checkpoints/
+*.log
+_build
+.DS_Store
+.jupyter_cache
+jupyter_execute
+src/_build/.jupyter_cache
+src/_build/jupyter_execute
+desktop.ini
+__pycache__
+**/*Zone.Identifier
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -56,7 +68,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -74,9 +85,6 @@ _build/
 
 # PyBuilder
 target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # IPython
 profile_default/

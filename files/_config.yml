@@ -22,6 +22,9 @@ parse:
     - linkify
     - substitution
     - tasklist
+latex:
+  latex_documents:
+     targetname: python.tex
 bibtex_bibfiles:
   - DFB.bib
 sphinx:
