@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-07-29T13:55:45.092803Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-07-29T13:55:07.792644Z",
+      "mimetype": "text/csv",
+      "name": "spectra_normalized_2modes.csv",
+      "path": "data/spectra_normalized_2modes.csv",
+      "size": 55951,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-07-29T13:55:45.092803Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-07-29T13:55:45.092803Z",
+  "mimetype": null,
+  "name": "data",
+  "path": "data",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
